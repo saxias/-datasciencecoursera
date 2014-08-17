@@ -1,4 +1,4 @@
-firstRepo
+My first repo
 =========
 
-first 
+This is my first repo for coursera data science class
